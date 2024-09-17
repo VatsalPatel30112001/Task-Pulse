@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+
+# Celery
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+celerybeat-schedule.bak
+
+# Redis
+dump.rdb
+
+# Environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swa
