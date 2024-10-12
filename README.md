@@ -25,9 +25,8 @@
 ### Installation
 
 1. **Clone the repo:**
-    ```bash
-        git clone https://github.com/yourusername/yourprojectname.git
-        cd yourprojectname
+    ```
+        git clone https://github.com/VatsalPatel30112001/Task-Pulse
     ```
 
 2. **Set up environment**
